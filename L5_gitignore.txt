@@ -1,0 +1,4 @@
+
+1)	Create .gitignore file
+
+2) In the .gitignore file add *.exe (OR) *.py 

@@ -1,0 +1,43 @@
+
+1) New Branch 
+
+		
+		git branch firstbranch
+
+
+		How Do i Enable The Branch Or Go into the Branch ?
+
+			git checkout firstbranch
+
+
+
+
+	(OR)
+
+
+
+	Create Branch and Go into the Branch in Single Command ?
+
+		git checkout -b firstbranch
+
+
+
+2) Merge Branch 
+
+	*) Need To Go In Base Branch (OR) Master Branch
+
+	git merge firstbranch
+
+
+
+3) Delete Branch 
+
+	git branch -d dummy
+
+	
+
+	
+
+
+
+

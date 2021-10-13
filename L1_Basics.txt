@@ -1,0 +1,5 @@
+
+
+
+
+Local Area --->  Staging Area -----> Working (or) Local Repository ----> Central Repository 

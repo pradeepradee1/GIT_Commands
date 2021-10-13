@@ -1,0 +1,21 @@
+
+
+1) Adding file into Staging Area
+
+	git add filename 
+
+	(OR)
+	
+	git add *
+
+
+2) Adding file into Working Repository
+
+	git commit -m 'git_commit'
+
+
+3) Adding file into Central Repository
+
+	git push filename
+
+
