@@ -6,7 +6,7 @@
 
 		(or)
 
-		git checkout -- *
+		git checkout -- .
 
 
 
