@@ -1,4 +1,5 @@
 Step 1 : apt-get update
+         apt install vim
 	 apt install git
 
 Step 2 : git --version
