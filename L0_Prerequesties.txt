@@ -1,0 +1,30 @@
+Step 1 : apt-get update
+	 apt install git
+
+Step 2 : git --version
+
+Step 3 : git config --list.
+
+Step 4 : 
+		 
+		 git config --global user.name "pradeep627"
+  
+		 git config --global user.email "pradeep.k@zucisystems.com"
+
+
+Step 5 : git config --list
+
+
+Step 6 : 
+		
+		1) ssh-keygen 
+		2) Press Enter key for saving the key in file
+		3) Press Double Enter key fot passphrase file
+		4) cat /home/pradeep.k@zucisystems.com/.ssh/id_rsa.pub
+		5) Then Copy The SSH key value  from Terminal 
+		6) Then Paste in GitAccount (Setting -- >ssh -- > Add New Key)
+		
+
+
+Step 7 :
+		Git clone
