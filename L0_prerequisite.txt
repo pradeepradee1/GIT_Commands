@@ -20,6 +20,7 @@ Step6	:
 			4) cat /home/pradeep.k@zucisystems.com/.ssh/id_rsa.pub
 			5) Then Copy The SSH key value  from Terminal 
 			6) Then Paste in GitAccount (Setting -- >ssh -- > Add New Key)
+			7) Restart server
 		
 Step7	:
 		Git clone
