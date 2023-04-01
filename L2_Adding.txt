@@ -12,3 +12,5 @@
 	git push filename
 
 
+4)  	Add and Commit in single file ?
+	git add * && git commit -m 'add&&Commit_In Single_Commands"
