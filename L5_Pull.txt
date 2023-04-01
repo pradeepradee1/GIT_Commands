@@ -2,3 +2,9 @@ Pull
 
 
 git pull 
+
+
+To avoid conflict 
+
+
+ 
