@@ -4,7 +4,8 @@ Pull
 git pull 
 
 
-To avoid conflict 
+To avoid Pull conflict changes
+
 
 
  
