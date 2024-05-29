@@ -1,0 +1,84 @@
+1) What are the challenges that i have faced ?
+
+	1) Getting data :
+
+			Understanding the Business usecases , getting the data from client warehouse (Because it is one time activity)
+	
+	2) Data Validation :
+
+			For ex: Account count , customer count , star count 
+
+	3) Solving Business Problem :
+
+			1) we need to prepare the data based on the business problem 
+			2) careefull aplying the business logic ( Input for Model )
+			
+			For ex: Inopertive should not inclused in the IP features since it is dependent feature 
+
+	4) Model validation and justification with stake holders :
+
+			1) Mutliple question wll rise to your model we need to give justification for the model
+
+			For ex : keeping only the balance doesn't determine the inoperative cusomters , we need to add more in products details
+
+
+2) Why Do you want to switch your job ?
+
+	I have done the best for myself and my current organization . 
+	I strongly felt that it is high time to move to new place and develop a fresh perpsctive with the competitive role 			
+
+
+
+3) Why shoud i hire you ? 	
+
+	As you have mentied in the job description 
+	that you require the candidate to have skills in Data Science , Machine learning , deep learning 
+	I belive that i would be the fit for this role
+
+
+4) Do You have any questions?
+-
+	Next Steps : (Postive)
+			what are the next steps in the hiring process
+
+	About the job : (Postive)
+			What are your expections for this postion ?
+			How many people are on the team ?
+			What will be Project ?
+
+	FeedBack :	(Negative)
+			Could you give feedback about me in this process 
+			So that i will improve from mistakes and elevate my confidences
+
+
+5) How are you today ?
+
+	I am doing great and quite excited about the interview 
+
+
+
+6) Why are you interesetd in this role ?
+		
+	This Position in your company perfectly aligns with my data science background
+	I am eager to contribute skill in data science and data anlysis
+
+
+7) What is salary excepetations ?
+
+	I am open to a competitve and fair compensation that reflect my skills and experceices 
+	
+	I am confident that we can mutually agree on a package that aligns with industry standards and the value 
+	that i bring to the table.
+
+
+
+8) What are Career Goal ?
+	
+	Short-Term Goal :
+
+	Long-Term Goal	:
+
+
+
+
+

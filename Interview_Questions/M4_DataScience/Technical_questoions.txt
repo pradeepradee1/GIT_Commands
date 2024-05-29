@@ -1,0 +1,21 @@
+CNN Architecture ? 
+
+RNN Architecture ?
+
+Transfer Llearning ?
+
+Transformer ?
+
+What is Dense Layer ?
+
+
+1) How did you handle the overfitting problem ?
+	
+
+2) Imbalance data sets ?
+
+
+3) How did you handle the FP Case ?
+	
+
+

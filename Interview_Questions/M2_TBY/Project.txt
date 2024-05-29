@@ -1,0 +1,90 @@
+Project 1 :
+			
+
+Project Name 			:	Customer Uplift Model
+
+Objective 				:   To Predicting potential customers, the focus is on those who bring high revenue to the bank.
+
+Project Explaination	:  	
+
+1)  For Identifying those Customers data anlytics will be doing based on entity like Demographics, transactions (ATM,UPI),Spend transactions details,other account details, Products details and geographics.
+
+2) This model is helping the marketing team will target Potential customers and optimize the return on investment (ROI) effiecently 
+
+For Ex : New product (Key chain and smart watch product)
+
+
+My Responsebility 		:
+
+	I take end to end responsibility from getting the requirements from client and deploy to the model productions.
+	
+	Discuss business requirements from the stakeholders.
+	
+	Designed database data model and optimization techniques in RDBMS.
+	
+	Prepare the Input Preprocessing 
+	
+	Executed EDA 
+
+	Feature Engineering , Feature Selction
+
+	Doing the statstical techniques descriptive analysis , Inference statistics and managing hypothesis test and p-values
+	
+	Created the Supervise Machine learning algorithms and maintain the Model and improve the model performance
+	
+	Automated manual steps and Deployed project in EC2 service productions.
+
+
+
+							
+Project Name 			:	Propensity Model
+
+1) Recommendating the customized product for individual customers
+
+2) Model enhance user experience, increase engagement, and providing the business outcomes 
+
+For Ex : HL ,VL ,PL, JL,locker ,Health Insurance ,Life Insurance, Term Insurance, Mutal fund and etc.
+
+
+
+Project Name 			:	Attrition Model
+
+1) We need to find who is going to in-operative customers in the bank
+
+2) This model will helps to forecast and retain those customers.
+
+
+
+Project Name 			:	Credit Risk Prediction
+
+1) We need to find the risk customers for financial loan , the focus is on who is not likely to repay the loan.
+
+2) By leveraging predictive modeling techniques, banks can manage credit risk for the financial stability.
+
+
+Entity Details :
+					1) Demo
+					2) LAPS (Loan aganist property)
+
+Solvedge Projects 		:
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+What are optimization techniques in DB ?
+	
+	Normalizations
+	CTE
+	Index
+	Views
