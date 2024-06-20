@@ -39,14 +39,19 @@
 4) Do You have any questions?
 -
 	Next Steps : (Postive)
+
 			what are the next steps in the hiring process
 
 	About the job : (Postive)
+
 			What are your expections for this postion ?
+
 			How many people are on the team ?
-			What will be Project ?
+
+			What will be Project type ?
 
 	FeedBack :	(Negative)
+
 			Could you give feedback about me in this process 
 			So that i will improve from mistakes and elevate my confidences
 
@@ -63,7 +68,7 @@
 	I am eager to contribute skill in data science and data anlysis
 
 
-7) What is salary excepetations ?
+7) What is salary excepetations  (Technical Round) ?
 
 	I am open to a competitve and fair compensation that reflect my skills and experceices 
 	
@@ -74,11 +79,18 @@
 
 8) What are Career Goal ?
 	
-	Short-Term Goal :
+	Short-Term Goal :  
 
-	Long-Term Goal	:
+	In short term , I would like to gain exposure while solving various business problem
+
+	Long-Term Goal	:  
+
+	After 3 to 4 years i would like to see myself working at higher position  and leading a team and helping you sloving bigger problems
 
 
+9) How to say I don't know Questions ?
+	
+	I am not sure  the answer right now , but i am keen to learn and find the solution if given a chance
 
 
 

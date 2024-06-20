@@ -11,35 +11,41 @@ Project Explaination	:
 
 2) This model is helping the marketing team will target Potential customers and optimize the return on investment (ROI) effiecently 
 
-For Ex : New product (Key chain and smart watch product)
+For Ex : New product (Key chain and smart watch product).
+		 They have been utlized this model to market their product.
 
 
 My Responsebility 		:
 
 	I take end to end responsibility from getting the requirements from client and deploy to the model productions.
 	
-	Discuss business requirements from the stakeholders.
+	Discuss business requirements from the Chief Data Scientists.
 	
-	Designed database data model and optimization techniques in RDBMS.
+	Designed database data model and optimization techniques in DataBase.
 	
 	Prepare the Input Preprocessing 
 	
 	Executed EDA 
+				-- ( What are Continous Features, Categorical , Outliers , Data errors , Missing Values , Imbalance data )
 
-	Feature Engineering , Feature Selction
+	Feature Engineering 
+				-- ( I will resolve all the problems that found in EDA )
+
+	Feature Selction
+				-- ( Correlation , Lasso regression algorithm)
 
 	Doing the statstical techniques descriptive analysis , Inference statistics and managing hypothesis test and p-values
 	
 	Created the Supervise Machine learning algorithms and maintain the Model and improve the model performance
 	
-	Automated manual steps and Deployed project in EC2 service productions.
+	Automated manual steps and Deployed project in  productions server.
 
 
 
 							
 Project Name 			:	Propensity Model
 
-1) Recommendating the customized product for individual customers
+1) Recommendating the customized product for individual customers based on the chracterstics.
 
 2) Model enhance user experience, increase engagement, and providing the business outcomes 
 
@@ -55,18 +61,27 @@ Project Name 			:	Attrition Model
 
 
 
-Project Name 			:	Credit Risk Prediction
+Project Name 			:	Risk Prediction for Financial Loan
 
 1) We need to find the risk customers for financial loan , the focus is on who is not likely to repay the loan.
 
-2) By leveraging predictive modeling techniques, banks can manage credit risk for the financial stability.
+2) By leveraging predictive modeling techniques, banks can manage the risk for the financial stability.
 
 
 Entity Details :
-					1) Demo
-					2) LAPS (Loan aganist property)
+					1) Demographics						
+					2) LAPS (Loan aganist property)		
+					3) Risk Segmentation Entity			
+					4) Collateral Detail 
+					    			
+					5) Transaction Details   			
+					6) Other Loan accounts   			
 
-Solvedge Projects 		:
+
+
+
+
+Solvedge Projects :
 
 
 

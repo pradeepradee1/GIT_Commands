@@ -1,0 +1,7 @@
+what is ARIMA ? 
+
+What is AR and I and MA ?
+
+What is sesonal , Trend , Resuidal ?
+
+how the time series model is working?

@@ -1,0 +1,22 @@
+MYSQL is Primary Base 
+Pyton is Secandory Base
+
+
+
+
+1) Merge Two dictioneres using only operator ?		--	Done
+
+2) Doc string
+
+3) What is negative index in python ?				--  Done
+
+4) Deep cpy and shallow copy 						-- 	Done
+
+8) Python Leet Code Problem
+
+
+*) What are Parquet ,Avro file format ?
+*) Parameter while reading CSV file
+*) difference beween loc and iloc 
+*) Connection with DB from Pandas
+

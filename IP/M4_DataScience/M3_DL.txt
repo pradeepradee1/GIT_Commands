@@ -1,0 +1,43 @@
+1) ANN 
+
+
+ANN Archtecture ?			--		Done
+
+ANN Architecture to child	
+
+Optimizer
+
+
+
+2) CNN 
+
+CNN Architecture 					--		Done
+
+CNN Architecture to child			--		
+
+What is SoftMax 
+
+transfer learning					
+
+
+
+3) RNN 
+
+
+RNN Architecture ?
+
+attention mechanisc in  NLP
+
+RAG Archtecture 
+
+Transformer ?
+
+How would explain the Gradient Descent and ANN to the child ?
+
+kwy component of pytorch framework
+
+Explain the optimizer
+
+difference between rnn and lstm
+
+Why cnn is performing good in image Compare with ann ?

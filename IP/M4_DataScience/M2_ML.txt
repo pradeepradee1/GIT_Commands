@@ -1,0 +1,33 @@
+How did you handle the FP Case ? 
+
+			1) We have to do analysis or understand the behaviour of FP 
+
+			2) We can perform the VIF Methology to handle the FP cases  
+
+
+Why Random Forest algorithm is performing better than ?
+			
+			
+			The Model is working in the Concurrency method
+
+			It handles the wide range data vey well
+
+			OP is also based on Voting , So There is no bias in Output
+
+
+Explain the K means clustering    
+
+			Done
+
+
+difference between the gradient boosting and xtreme gradient boosting algorithm
+	
+			Done
+
+
+Eigen value and eigen vector
+
+			Done	
+
+
+Parameters in algorithm in ML part

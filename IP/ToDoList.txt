@@ -1,0 +1,44 @@
+Get more ambiguity:
+
+1) Data Model
+
+2) AWS ( Work Flow how to deploy )    (Important)
+	   ( know about their services)
+
+3) NLP --> Algorithm  architecture and  details   --> Resume
+
+4) ZUCI Project ---> More clarity ---> Maual and automation work expose
+
+5) Solvedge's Projects ---> More Clarity
+
+
+
+Give clarity in experciences for DataScience, Machine LEarning, Deep learning, NLP,
+
+Resume
+
+Remove the z-score 
+
+Solvedge Projects : Data Science (Change project name) and NLP Project name
+
+1) what is Patient Risk Prediction in healt care in data sciencePlz Search in chatGPT
+
+2) Add Sequen to Sequence Model in Resume
+
+2) Remove the VR Project
+
+4) Add DL in near frameworks and sorted the Frameworks
+
+Add only the business sovlde problem ( Dont add preprocessing work )
+
+
+Project explanation ----> Current project ----> Product wise ----> interview
+
+Solvedge project ----> Product Base (Mention wise)
+
+
+
+
+
+
+
